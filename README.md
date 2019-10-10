@@ -12,8 +12,9 @@ can be found in It-technical-showcases.pdf.
 
 The program is written in Python, Version 3.7. It uses the following libraries:
 * requests
-* json and 
+* json 
 * re
+
 The program retreives JSON data from the following 
 web service: https://jsonplaceholder.typicode.com/photos
 
