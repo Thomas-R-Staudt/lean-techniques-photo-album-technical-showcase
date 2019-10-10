@@ -5,12 +5,16 @@
 Photo album technical showcase is a program that retreives JSON data
 from a web service, and displays data from each JSON object. 
 I wrote this program as part of the application process for a 
-position with Lean TECHniques, Inc.
+position with Lean TECHniques, Inc. The requirements for the program
+can be found in It-technical-showcases.pdf. 
 
 ## Technologies
 
-The program is written in Python, version 3.7. It uses the following libraries:
-requests, json, and re. The program retreives JSON data from the following 
+The program is written in Python, Version 3.7. It uses the following libraries:
+* requests
+* json and 
+* re
+The program retreives JSON data from the following 
 web service: https://jsonplaceholder.typicode.com/photos
 
 ## Installing Python and running the program
